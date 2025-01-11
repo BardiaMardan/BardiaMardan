@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1>Hey there, I'm <a href="https://bardiamsa.tech">Bardia</a></h1>
+<h1>[My Portfolio website](https://bardiamsa.tech)</h1>
 
-<!--
-**BardiaMardan/BardiaMardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <h3>Full-Stack Developer</h3>
+</p>
 
-Here are some ideas to get you started:
+# Languages & Frameworks
+<p align="center">
+  <a href="/">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,arduino,fastapi,html,css,nextjs,react,nestjs,express,tailwind,threejs,nodejs,prismam,mysql,postgres,mongodb,firebase,supabase,redis,pnpm,yarn,npm,vite" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tools & Software
+<p align="center">
+  <a href="/">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,github,windows,linux,kali,debian,ps,pr,ai,discord,cloudflare,aws,git,docker" />
+  </a>
+</p>
+
+# My Social Networks
+<p align="center">
+  <a href="https://discord.com/users/760653894048546868">
+    <img src="https://skillicons.dev/icons?i=discord&perline=3" alt="Discord" height="40" />
+  </a>
+  <a href="https://t.me/BardiaMA">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="Telegram" height="40" />
+  </a>
+</p>
