@@ -21,7 +21,7 @@
 
 # My Social Networks
 <p align="center">
-  <a href="https://discord.com/users/760653894048546868">
+  <a href="https://discord.com/users/442728361970892801">
     <img src="https://skillicons.dev/icons?i=discord&perline=3" alt="Discord" height="40" />
   </a>
   <a href="https://t.me/BardiaMA">
