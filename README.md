@@ -1,5 +1,5 @@
-<h1>Hey there, I'm <a href="https://bardiamsa.tech">Bardia Mardan</a></h1>
-<h1><a href="https://bardiamsa.tech">My Portfolio website</a></h1>
+<h1>Hey there, I'm <a href="https://bardiamardan.tech">Bardia Mardan</a></h1>
+<h1><a href="https://bardiamardan.tech">My Portfolio website</a></h1>
 
 <p align="center">
   <h3>Full-Stack Developer</h3>
